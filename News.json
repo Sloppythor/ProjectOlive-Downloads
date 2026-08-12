@@ -1,0 +1,19 @@
+{
+  "news": [
+    {
+      "title": "Project Olive Launcher v1.1.2",
+      "subtitle": "Launcher development update",
+      "body": "Remote server access, addon management, and launcher self-updates are now in place."
+    },
+    {
+      "title": "Addon Updates Are Live",
+      "subtitle": "Automatic addon management",
+      "body": "The newest tested Project Olive addon pack downloads and installs directly through the launcher."
+    },
+    {
+      "title": "World Snapshot Is Next",
+      "subtitle": "Live realm information",
+      "body": "Players online, realm uptime, and other safe server statistics are being added directly to the launcher."
+    }
+  ]
+}

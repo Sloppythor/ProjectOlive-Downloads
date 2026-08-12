@@ -1,17 +1,17 @@
 {
   "news": [
     {
-      "title": "LIVE NEWS TEST - IT WORKS!",
+      "title": "Launcher Updates itself!",
       "subtitle": "Launcher development update",
       "body": "Remote server access, addon management, and launcher self-updates are now in place."
     },
     {
       "title": "Addon Updates Are Live",
       "subtitle": "Automatic addon management",
-      "body": "The newest tested Project Olive addon pack downloads and installs directly through the launcher."
+      "body": "The newest tested Project Olive addon pack downloads and installs directly through the launcher, will be adding more soon HolyNoodz!"
     },
     {
-      "title": "World Snapshot Is Next",
+      "title": "World Snapshot Is Coming Soon!",
       "subtitle": "Live realm information",
       "body": "Players online, realm uptime, and other safe server statistics are being added directly to the launcher."
     }

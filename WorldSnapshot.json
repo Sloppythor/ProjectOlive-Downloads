@@ -1,9 +1,9 @@
 ﻿{
-    "playersOnline":  0,
+    "playersOnline":  1,
     "botsOnline":  100,
-    "totalOnline":  100,
+    "totalOnline":  101,
     "characters":  616,
     "totalAccounts":  67,
-    "realmUptime":  "10h 0m",
-    "updated":  "2026-08-15 12:37 PM"
+    "realmUptime":  "10h 10m",
+    "updated":  "2026-08-15 12:42 PM"
 }

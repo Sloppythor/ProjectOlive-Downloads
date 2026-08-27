@@ -1,19 +1,19 @@
 {
   "news": [
     {
-      "title": "Launcher Updates itself!",
+      "title": "Launcher update 1.1.5!",
       "subtitle": "Launcher development update",
-      "body": "Remote server access, addon management, and launcher self-updates are now in place."
+      "body": "New Server PC is live and running, New addons added, realmlist.wtf has been updated."
     },
     {
-      "title": "Addon Updates Are Live",
-      "subtitle": "Automatic addon management",
-      "body": "The newest tested Project Olive addon pack downloads and installs directly through the launcher, will be adding more soon HolyNoodz!"
+      "title": "Addon Pack is  updated!",
+      "subtitle": "Update addons to download newest updates.",
+      "body": "MiniMap Button, Gathermate, Titanpanel, AddonControlPanel, Pallypower, and Postal added!"
     },
     {
-      "title": "World Snapshot Is Coming Soon!",
-      "subtitle": "Live realm information",
-      "body": "Players online, realm uptime, and other safe server statistics are being added directly to the launcher."
+      "title": "Improvements on the way.",
+      "subtitle": "Recent Polls being tallied up",
+      "body": "Lockouts for raids, Epic/Rare drop percentages and more!"
     }
   ]
 }

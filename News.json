@@ -1,19 +1,19 @@
-{
+﻿{
   "news": [
     {
-      "title": "Launcher update 1.1.5!",
-      "subtitle": "Launcher development update",
-      "body": "New Server PC is live and running, New addons added, realmlist.wtf has been updated."
+      "title": "Project Olive Client Update!",
+      "subtitle": "New custom content and client improvements",
+      "body": "Project Olive Tokens have updated artwork, now stack up to 1,000, and are freely tradable. ThunderNotSoFury has also received its custom appearance and is ready for adventure!"
     },
     {
-      "title": "Addon Pack is  updated!",
-      "subtitle": "Update addons to download newest updates.",
-      "body": "MiniMap Button, Gathermate, Titanpanel, AddonControlPanel, Pallypower, and Postal added!"
+      "title": "Quality of Life Hotfixes!",
+      "subtitle": "Less hassle, more adventure",
+      "body": "Molten Core no longer requires rune dousing to progress, and Dual Specialization has been reduced from 1,000 gold to just 50 gold!"
     },
     {
-      "title": "Improvements on the way.",
-      "subtitle": "Recent Polls being tallied up",
-      "body": "Lockouts for raids, Epic/Rare drop percentages and more!"
+      "title": "More Project Olive Updates!",
+      "subtitle": "Recent fixes and improvements",
+      "body": "Daily raid lockouts, rotating weekend events, world boss improvements, and numerous server fixes continue to make Project Olive better for everyone."
     }
   ]
 }

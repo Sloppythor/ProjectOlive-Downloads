@@ -1,19 +1,19 @@
 ﻿{
-  "news": [
-    {
-      "title": "Project Olive Client Update!",
-      "subtitle": "New custom content and client improvements",
-      "body": "Project Olive Tokens have updated artwork, now stack up to 1,000, and are freely tradable. ThunderNotSoFury has also received its custom appearance and is ready for adventure!"
-    },
-    {
-      "title": "Quality of Life Hotfixes!",
-      "subtitle": "Less hassle, more adventure",
-      "body": "Molten Core no longer requires rune dousing to progress, and Dual Specialization has been reduced from 1,000 gold to just 50 gold!"
-    },
-    {
-      "title": "More Project Olive Updates!",
-      "subtitle": "Recent fixes and improvements",
-      "body": "Daily raid lockouts, rotating weekend events, world boss improvements, and numerous server fixes continue to make Project Olive better for everyone."
-    }
-  ]
+    "news":  [
+                 {
+                     "title":  "Heroic Ragefire Chasm Has Arrived!",
+                     "body":  "Challenge Heroic Ragefire Chasm, face Knox the Dreadfang, and discover custom equipment, unique rewards, and a new mount. Enter through the Shattrath portal.",
+                     "subtitle":  "A new level 70 dungeon adventure"
+                 },
+                 {
+                     "title":  "New World Improvements",
+                     "body":  "Relax beside a Basic Campfire to earn rested XP. Support your faction with Olive Tokens to activate powerful capital-city world blessings.",
+                     "subtitle":  "More ways to enjoy Azeroth"
+                 },
+                 {
+                     "title":  "The Siege of Orgrimmar Approaches",
+                     "body":  "An army of 120 Alliance attackers prepares to march on Orgrimmar. The siege system has been developed, but the event remains disabled until final Live testing is complete.",
+                     "subtitle":  "Massive capital battles are coming"
+                 }
+             ]
 }
